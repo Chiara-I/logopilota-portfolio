@@ -100,6 +100,21 @@ img {
 #footer {
   font-size: 16px;
 }
+.privacy {
+  margin-left: 42vw;
+  margin-right: 40vw;
+}
+
+.privacy-body {
+  margin-left: -30vw;
+  margin-right: -30vw;
+  text-align: justify;
+}
+#privacy-btn[aria-expanded="true"] {
+  background-color: black;
+  color: rgb(219, 30, 35);
+  border: none;
+}
 
 .partner {
   width: 15vw;
@@ -111,6 +126,7 @@ img {
   width: 100%;
   background: #000;
   position: fixed;
+  z-index: 10;
 }
 
 /* Hide Hamburger */
@@ -161,6 +177,15 @@ img {
 
   .logo {
     width: 50vw;
+  }
+
+  .privacy {
+    margin-left: 25vw;
+    margin-right: 25vw;
+  }
+  .privacy-body {
+    margin-left: -15vw;
+    margin-right: -15vw;
   }
 
   .insta-logo,
