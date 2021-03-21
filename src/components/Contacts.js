@@ -22,7 +22,7 @@ function Contacts() {
         <img className="facebook-logo" alt="facebook logo" src={facebookLogo} />
       </a>
 
-      <a href="mailto: beppealbo@gmail.com">
+      <a href="mailto: logopilota@gmail.com">
         <img className="mail" alt="mail" src={mail} />
       </a>
       <a
@@ -32,7 +32,7 @@ function Contacts() {
         <img className="mail" alt="shop" src={shop} />
       </a>
       <p id="footer">
-        © 2021 LogoPilota - Graphics4Riders
+        © 2021 LogoPilota Graphics4Riders - logopilota@gmail.com
         <div className="privacy">
           <div class="accordion accordion-flush" id="accordionFlushExample">
             <div class="accordion-item">
