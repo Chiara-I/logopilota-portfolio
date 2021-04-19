@@ -4,9 +4,9 @@ import Hamburger from "./Hamburger"
 
 function Heading() {
   return (
-    <nav id="hamnav">
-      <a href="#main">
-        <img className="logo" alt="website logo" src={logo} />
+    <nav id='hamnav'>
+      <a href='#main'>
+        <img className='logo' alt='website logo' src={logo} />
       </a>
       <Hamburger />
     </nav>

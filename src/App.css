@@ -49,11 +49,13 @@ a {
   margin-right: 1vw;
   margin-top: 5vh;
   font-size: x-large;
+  transition: all 0.2s ease-in-out;
 }
 
 a:hover {
   color: white;
   cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 
 .insta-logo,
@@ -64,12 +66,14 @@ a:hover {
   margin: 8vw;
   border-radius: 20%;
   padding: 1vw;
+  transition: all 0.2s ease-in-out;
 }
 
 .insta-logo:hover,
 .facebook-logo:hover,
 .mail:hover {
   background-color: white;
+  transition: all 0.2s ease-in-out;
 }
 
 .works,
